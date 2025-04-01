@@ -2,5 +2,31 @@ html { box-sizing: border-box; }
 *, ::before, ::after { box-sizing: inherit; }
 
 body {
-
+    
 }
+
+h1
+    { font-size: 48px;
+       text-align: center;}
+
+h2
+    { font-size: 32px;}
+
+h3
+    { font-size: 24px;
+    color:  #dc6aa1;
+    margin-top: 48px;}
+
+.author
+    {text-align: center;
+    color: #dc6aa1;}  
+    
+.intro
+    {font-size: 24px;
+    color: #808080 ;}
+
+
+
+
+
+       
